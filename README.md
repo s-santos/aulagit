@@ -1,5 +1,5 @@
 # aulagit
-Estudos com professor Eduardo Cesar digital innovation one
+Estudos com professores na Digital Innovation One
 
 Serve apenas para melhorar os conhecimentos em git github.
 Com o passar do tempo poderá ser melhorado.
